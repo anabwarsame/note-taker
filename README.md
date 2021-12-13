@@ -4,7 +4,11 @@
 
 ## Deployed Github URL
 
+- https://anabwarsame.github.io/note-taker/
+
 ## Heroku URL
+
+- https://immense-plateau-15959.herokuapp.com/
 
 ## User Story
 
